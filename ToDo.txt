@@ -1,3 +1,5 @@
+Placer le dossier du git clone a la racine du server !
+
 Si le site a deja été utiliser:
 	Supprimer la DB `camagru`
 	Supprimer le ficher instaled dans config/
