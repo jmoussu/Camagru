@@ -2,8 +2,8 @@
 #Instagram projet 42 php matif et js natif
 
 #Refaire un reseau social photo avec gestion de:
-#` -Compte et Setting
-# -Mail et token de validation
+#` -Compte et Setting`
+# `-Mail et token de validation`
 # -Base de donner 
 # -Camera 
 # -Upload d'image
