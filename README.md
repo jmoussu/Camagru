@@ -1,7 +1,7 @@
 # camagru
-##Instagram projet 42 php matif et js natif
+## Instagram projet 42 php matif et js natif
 
-##Refaire un reseau social photo avec gestion de:
+## Refaire un reseau social photo avec gestion de:
 
 ` -Compte et Setting`
 
@@ -15,7 +15,7 @@
 
 ` -Filtre `
 
-##Bonus liste : 
+## Bonus liste : 
 
 ` Page user`
 
