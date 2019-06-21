@@ -1,0 +1,4 @@
+Supprimer la DB
+Supprimer le ficher instaled dans config/
+Supprimer tous les dossiers (avec le nom des utilisateur) dans le dossier resources/user 
+Sur le sever lancer l'instalation de la DataBase avec l'url : config/setup.php
