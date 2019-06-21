@@ -1,4 +1,7 @@
-Supprimer la DB
-Supprimer le ficher instaled dans config/
-Supprimer tous les dossiers (avec le nom des utilisateur) dans le dossier resources/user 
+Si le site a deja été utiliser:
+	Supprimer la DB `camagru`
+	Supprimer le ficher instaled dans config/
+	Supprimer tous les dossiers (avec le nom des utilisateur) dans le dossier resources/user
+
+Puis pour lancer le site
 Sur le sever lancer l'instalation de la DataBase avec l'url : config/setup.php
