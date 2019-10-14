@@ -7,3 +7,7 @@ Si le site a deja été utiliser:
 
 Puis pour lancer le site
 Sur le sever lancer l'instalation de la DataBase avec l'url : config/setup.php
+
+phpmyadmin est configurer en local root / admin123
+Le server mail utiliser est celui du résequ local (commande mail)
+le php.ini du server dois etre adapter pour Linux (1 ligne a décommenter)
