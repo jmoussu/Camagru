@@ -18,6 +18,9 @@
 ## PICS :
 
 ![Screen Shot 2019-10-14 at 11 53 53 PM](https://user-images.githubusercontent.com/44972661/66786309-37eee980-eee0-11e9-8652-7881a52b6980.png)
+![Screen Shot 2019-10-14 at 11 54 20 PM](https://user-images.githubusercontent.com/44972661/66786362-5b199900-eee0-11e9-8b14-f27cd69419aa.png)
+![Screen Shot 2019-10-14 at 11 54 51 PM](https://user-images.githubusercontent.com/44972661/66786363-5b199900-eee0-11e9-9267-ccc99e9f718d.png)
+![Screen Shot 2019-10-14 at 11 55 04 PM](https://user-images.githubusercontent.com/44972661/66786364-5b199900-eee0-11e9-8913-72df082a27cc.png)
 
 ## Bonus liste : 
 
