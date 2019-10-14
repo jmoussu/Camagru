@@ -1,4 +1,4 @@
-# camagru
+# Camagru
 ## Instagram projet 42 php natif et js natif
 
 ## Refaire un reseau social photo avec gestion de:
