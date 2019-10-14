@@ -14,9 +14,10 @@ if (!(isset($_SESSION['login'])))
 	exit();
 }
 
-if (isset($GLOBALS['HTTP_RAW_POST_DATA']))
+$postdata = file_get_contents("php://input");
+if (isset($postdata))
 {
-	$data = $GLOBALS['HTTP_RAW_POST_DATA'];
+	$data = $postdata;
 	if (preg_match('/^data:image\/(\w+);base64,/', $data, $type)) {
 		$data = substr($data, strpos($data, ',') + 1);
 		$data = base64_decode($data);
