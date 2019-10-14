@@ -5,21 +5,25 @@
 
 ` -Compte et Setting`
 
-` -Mail et token de validation`
+` -Envoie de Mail et token de validation`
 
 ` -Base de donner` 
 
-` -Camera` 
+` -Camera`
 
 ` -Upload d'image`
 
 ` -Filtre `
 
+## PICS :
+
+![alt text](https://image.noelshack.com/fichiers/2019/42/2/1571090732-screen-shot-2019-10-14-at-11-53-53-pm.png)
+
 ## Bonus liste : 
 
-` Page user`
+`Page user`
 
-` Comunication avec le server Ajaxifier`
+`Comunication avec le server Ajaxifier`
 
 `Scroll infini`
 
@@ -33,7 +37,7 @@
 
 `Changer son mail avec token`
 
-`Changer login change toute les action like comment photo`
+`Changer login change toute les action (like comment photo)`
 
 `Gestion souris:`
 
@@ -55,8 +59,8 @@
 
 `		limite de retour a la ligne dans les commentaire`
 
-`Image de like plein ou vide en ajax`
+`Icone de like plein ou vide en ajax`
 
-`Camera em mode mirroire impossible la vue de la camera est en mirroire et coter server l'image est tourner en miroire `
+`Camera em mode mirroire la vue de la camera est en mirroire et coter server l'image est tourner en miroire `
 
-`seulement quand les donner vienne de la camera et pas d'un upload.`
+`seulement quand les données viennent de la camera et pas d'un upload.`
