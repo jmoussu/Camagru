@@ -6,13 +6,15 @@
 
 ` -Gestion de Compte et de setting`
 
+` -Gestion de like et commentaire`
+
 ` Mail de validation et d'oublie de mot de passe`
 
 ` -Envoie de Mail en cas de comentaire`
 
 ` -Base de donner` 
 
-` -Camera`
+` -Camera pour prendre des photo`
 
 ` -Upload d'image`
 
