@@ -4,9 +4,11 @@
 
 ## Refaire un reseau social photo avec gestion de:
 
-` -Compte et Setting`
+` -Gestion de Compte et de setting`
 
-` -Envoie de Mail et token de validation`
+` Mail de validation et d'oublie de mot de passe`
+
+` -Envoie de Mail en cas de comentaire`
 
 ` -Base de donner` 
 
@@ -14,7 +16,7 @@
 
 ` -Upload d'image`
 
-` -Filtre `
+` -Filtre déplacable agrendissable`
 
 ## PICS :
 
