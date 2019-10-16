@@ -2,23 +2,23 @@
 ## Instagram projet 42 php natif et js natif
 ![Screen Shot 2019-10-15 at 12 35 33 AM](https://user-images.githubusercontent.com/44972661/66787382-c6189f00-eee3-11e9-9bd9-ab6bc4fd638d.png)
 
-## Refaire un reseau social photo avec gestion de:
+## Refaire un réseau social photo avec gestion de:
 
-` -Gestion de Compte et de setting`
+` -Gestion de Compte et de settings`
 
-` -Gestion de like et commentaire`
+` -Gestion de likes et commentaires`
 
-` Mail de validation et d'oublie de mot de passe`
+` Mail de validation et d'oubli de mot de passe`
 
-` -Envoie de Mail en cas de comentaire`
+` -Envoi de Mails en cas de commentaire`
 
-` -Base de donner` 
+` -Base de données` 
 
-` -Camera pour prendre des photo`
+` -Camera pour prendre des photos`
 
-` -Upload d'image`
+` -Upload d'images`
 
-` -Filtre déplacable agrendissable`
+` -Filtre déplaçable agrandissable`
 
 ## PICS :
 
@@ -31,44 +31,44 @@
 
 `Page user`
 
-`Comunication avec le server Ajaxifier`
+`Communication avec le server Ajaxifier`
 
 `Scroll infini`
 
-`Whitbox / modal sur les photo`
+`Whitbox / modal sur les photos`
 
-`Previsualisation du filter`
+`Prévisualisation du filtre`
 
-`Placement et taille du filter`
+`Placement et taille du filtre`
 
-`Filtre sur les fichier upload`
+`Filtre sur les fichiers upload`
 
 `Changer son mail avec token`
 
-`Changer login change toute les action (like comment photo)`
+`Changer login change toutes les actions (likes, comments, photos)`
 
 `Gestion souris:`
 
-`	Cliquer a l'exterieur de la WhiteBox la ferme (comme sur facebook)`
+`	Cliquer à l'exterieur de la WhiteBox la ferme (comme sur facebook)`
 
 `Gestion du clavier:`
 
-`	Entrer pour acceder a la boute de dialogue pour commenter`
+`	Entrer pour accéder à la boite de dialogue pour commenter`
 
 `	Escape pour fermer la WhiteBox`
 
 `	Entrer pour envoyer le commentaire et maj entrer pour faire un saut de ligne`
 
-`		-Gestion des combo de touche programer en js natif`
+`		-Gestion des combo de touche programmés en js natif`
 
-`		-Convertir les saut de ligne du langage au web nl2br() `
+`		-Convertir les sauts de ligne du langage au web nl2br() `
 
-`		Utilisation de POST pour garder les retour a la ligne (GET prend pas en compte les retour a la ligne)`
+`		Utilisation de POST pour garder les retours à la ligne (GET ne prend pas en compte les retours à la ligne)`
 
-`		limite de retour a la ligne dans les commentaire`
+`		limite de retour à la ligne dans les commentaires`
 
 `Icone de like plein ou vide en ajax`
 
-`Camera em mode mirroire la vue de la camera est en mirroire et coter server l'image est tourner en miroire `
+`Camera em mode miroir la vue de la camera est en miroir et côté serveur l'image est tournée en miroir `
 
-`seulement quand les données viennent de la camera et pas d'un upload.`
+`Seulement quand les données viennent de la camera et pas d'un upload.`
